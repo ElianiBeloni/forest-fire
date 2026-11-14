@@ -51,4 +51,4 @@ dados/data.csv         resultados das execuções em lote
 
 - **Disciplina:** CB23 – Programação 2, IMPA Tech, período 2024.2
 - **Professor:** Emílio Brazil
-- **Autoria:** [tainaimpa](https://github.com/tainaimpa), [bianca-zavadisk](https://github.com/bianca-zavadisk), [ElianiBeloni](https://github.com/ElianiBeloni), [kaio-costa](https://github.com/kaio-costa), [Suelen-Luiz](https://github.com/Suelen-Luiz), [yas-monteiro](https://github.com/yas-monteiro), [tomazcavalcantee](https://github.com/tomazcavalcantee), [adririffel](https://github.com/adririffel) e [isabelli-cristhini](https://github.com/isabelli-cristhini).
+- **Autoria:** Adriana Kaminsky Riffel, Bianca Zavadisk de Abreu, Daphny Selchea Santos, Eliani Magalhães Beloni, Isabelli Cristhini da Silva, Kaio Vitor Ferreira Costa, Maria Clara Carvalho Fernandes, Suelen Veiga de Oliveira Luiz, Tainá Isabela Queiroz Drumond, Tomaz de Lucena Cavalcante e Yasmin Monteiro e Silva
